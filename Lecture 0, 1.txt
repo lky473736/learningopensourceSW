@@ -1,0 +1,34 @@
+1) 
+open source -> OSS (open source software) 
+
+OSS : computer program for general public for use or modification, under a software license (example. GPL, MIT, Apache...)
+(not necessarily meaning cost-free)
+
+2) 
+* always OSS have a copyright (no open source license -> it is not open source)
+* not always OSS is cost-free (cost-free OSS == FOSS)
+* freeware != open source (mostly) : we cannot read the code in some software's executable file
+
+3) 
+OSS example : GNU, Linux, Apache, Libre, Pytorch, Python, Chromium, OpenCV...
+
+4) 
+git : version control (capture snapshot)
+github : upload the git & withdoing each other
+
+repository, readme, branch...
+
+5) 
+GNU : collection of many open programs including Unix-like operation system (GNU/Linus kernel)
+
+Four essential freedoms :
+freedom 0 : to run for any purpose
+freedom 1 : to study and change program as we you wish
+freedom 2 : to redistribute copies
+freedom 3 : to distribute copies of the modified versions
+
+6)
+License is included in README, comment, document, etc
+
+7)
+contribution : modification, comments and other activities to improve OSS
