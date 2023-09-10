@@ -1,0 +1,7 @@
+repository 생성 시 가장 처음으로 생기는 branch : master (main) : 최종본
+
+어떤 시점에 S/W 업그레이드 및 오류 고치기가 필요할 때 (issue opened) : main branch에서 수정 X -> new branch 만들기 -> new branch에서 고쳐서 main branch로 merge
+commit : snapshot (필요하다면 commit 시점으로 돌아갈 수 있도록 기록)
+pull requests : new branch에서 main branch로 merge 요청
+
+merging : issue closed
