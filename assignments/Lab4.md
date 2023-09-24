@@ -20,7 +20,7 @@ CLI Based (Terminal)
 **ls** : output directories just below root    
 **cd A** : Move directory to A    
     
-**<arguments> : after cd**    
+**\<arguments\> : after cd**    
 / take root    
 . Current Directory (Current Directory)     
 .. parent directory (parent directory)    
@@ -29,7 +29,7 @@ CLI Based (Terminal)
 ./[Directory name] Relative path (relative path)    
 ..../[Directory name] Relative path (relative path)    
     
-**<options> : after ls**    
+**\<options\> : after ls**    
 -l : Outputs detailed information (permissions to files, ownership information for files, file capacity, creation date...) 
    
 -lh : It's the same as -l, when dealing with large units, -lh rather than -l    
@@ -41,7 +41,7 @@ file permissions, owner, group, size in bytes, modification time, file name
     
 ***Linux is very important because there are a lot of users, due to security)***    
     
-**<Tip: Automatic completion>**    
+**\<Tip: Automatic completion\>**    
 TAB: Automatic completion function    
 up arrow : previously used command    
     
@@ -56,7 +56,7 @@ up arrow : previously used command
 **rm [file name]** : clear file    
 ***rm in the CLI is not recoverable (permanently erased)***    
     
-**<Wild Card>**    
+**\<Wild Card\>**    
  \* : All file names    
 ex) \*.py : All files with the .py extension in the current directory    
 Any character file that starts with g* : g    
