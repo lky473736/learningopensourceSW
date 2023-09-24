@@ -39,7 +39,7 @@ CLI Based (Terminal)
 **\<Long format\>**    
 file permissions, owner, group, size in bytes, modification time, file name    
     
-***Linux is very important because there are a lot of users, due to security)***    
+***Owner system is very important because there are a lot of users, due to security***    
     
 **\<Tip: Automatic completion\>**    
 TAB: Automatic completion function    
