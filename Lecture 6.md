@@ -45,7 +45,7 @@
 ##### adding all files at stage area
 * git add .
 
-##### unstaging
+##### unstaging (In real, file doesn't be removed -> removing file staging at git)
 * git rm --cached [filename]
 
 ##### ignoring a file
