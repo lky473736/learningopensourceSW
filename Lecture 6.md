@@ -24,11 +24,11 @@
 * distributed : all computer have copy of version database
 
 ##### state in git
-* modified
-* staged
-* commited 
+* modified : file at working directory
+* staged : before commit, we should put the file that i want to commit on stage
+* commited : update a message of the file
 
-##### git config
+##### git config (setup : saved at /gitconfig or /git/config)
 * system level : --system (administrative)
 * global level : --global (all repositories of a current user)
 * local level : --local (current repository)
