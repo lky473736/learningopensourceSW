@@ -53,3 +53,6 @@
 
 ##### commit
 * git commit -m "commit message"
+
+##### change the name of current branch
+* git branch -m [current branch name] [wanting name]
